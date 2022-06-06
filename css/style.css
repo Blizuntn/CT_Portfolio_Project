@@ -1,0 +1,46 @@
+.Link-container{
+    background-color:black;
+    color:white;
+    width: 100% 
+}
+.ct{
+    color: white;
+    display: inline-block;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.html{
+    color: white;
+    display: inline-block;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.css{
+    color: white;
+    display: inline-block;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.other{
+    color: white;
+    display: inline-block;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.link{
+    color: white;
+    display: inline-block;
+    padding-right: 10px;
+    padding-left: 1200px;
+}
+.title-1{
+    background-color: darkgrey;
+    height: 292px;
+    width: 1200px;
+    
+}
+.title-2{
+    background-color: darkgrey;
+    height:290px;
+    width: 1200px;
+}
